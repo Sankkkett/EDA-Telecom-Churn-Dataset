@@ -59,9 +59,8 @@ This project focuses on performing comprehensive Exploratory Data Analysis (EDA)
    ```
 
 3. Load the cleaned CSV file into Power BI for visualization.
+   ```
    
-```
-
 ## Conclusion
 This project demonstrates the effective use of Python for data preprocessing and Power BI for visualization, enabling a better understanding of telecom customer churn and preparing the data for predictive modeling.
 
