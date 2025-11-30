@@ -1,7 +1,7 @@
 # Telecom Churn Dataset: Exploratory Data Analysis (EDA) With Power BI 
 
 ## 📊 Power BI Dashboard of Telecom Churn 
-![Telecom Churn Analysis Dashboard]()
+![Telecom Churn Analysis Dashboard](https://github.com/Sankkkett/EDA-Telecom-Churn-Dataset/blob/master/Telecom%20Churn%20Dashboard%20(2).jpeg)
 
 ## Project Overview
 This project focuses on performing comprehensive Exploratory Data Analysis (EDA) on a telecom customer churn dataset using Python and Power BI. The aim is to preprocess the data effectively and prepare it for machine learning tasks like churn prediction, while also deriving actionable insights through visualizations.
