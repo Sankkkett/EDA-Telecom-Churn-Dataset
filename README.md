@@ -1,4 +1,4 @@
-# Telecom Churn Dataset: Exploratory Data Analysis (EDA) With Power BI 
+# Telecom Churn Dataset: Exploratory Data Analysis (EDA) and Visualize on Power BI 
 
 ## 📊 Power BI Dashboard of Telecom Churn 
 ![Telecom Churn Analysis Dashboard](https://github.com/Sankkkett/EDA-Telecom-Churn-Dataset/blob/master/Telecom%20Churn%20Dashboard%20(2).jpeg)
